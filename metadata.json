@@ -1,0 +1,7 @@
+{
+  "name": "Copy of SlimLogic AI",
+  "description": "A precision-focused weight loss tracker powered by Gemini. Features interrogative food logging, ephemeral meal advice, and AI image editing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
